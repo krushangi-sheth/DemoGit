@@ -1,0 +1,6 @@
+Steps:
+1)Open Github 
+2)go to Repo Create New repo (Must Not ADD READ ME FILE)
+3)open project folder you want to upload on git and initialize using following command 
+--For command to write you can use Git bash or command prompt
+--to use command prompt type cmd on top bar it will help to open cmd directly in the following folder
