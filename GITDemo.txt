@@ -4,3 +4,19 @@ Steps:
 3)open project folder you want to upload on git and initialize using following command 
 --For command to write you can use Git bash or command prompt
 --to use command prompt type cmd on top bar it will help to open cmd directly in the following folder
+
+
+git init 
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/krushangi-sheth/DemoGit.git
+
+git push -u origin main
+
+----------------------------------------------------------------------------------------------------
+NOW ONCE THE FILE UPLOADED ON GIT IF YOU WANT TO PUSH NEW FILES AND CHANGES DO FOLLOWING:-
